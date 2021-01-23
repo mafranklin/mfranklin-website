@@ -1,12 +1,12 @@
 # Site settings
 title: Matt Franklin
 description: "lockdown words and code"
-url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
+url:  "https://mattfranklin.co.uk" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Matt Franklin"
   email: "matt.franklin.is@gmail.com"
-  url: "https://alessiofranceschi.me"
+  url: "https://mattfranklin.co.uk"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
