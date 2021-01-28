@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Home Assistant Environment Sensors'
-categories: home-assistant code
+categories: code
 ---
 
 This week inspired by both the hours spent inside during the UK's lockdown 2.0, and by my day-job working on the Raspberry Pi/Home Assistant based [PowerShaper](https://powershaper.io) project, I recently decided to up my home monitoring game. This isn't going to be a  tutorial but just a brief overview of my process.
@@ -74,6 +74,8 @@ From the Zigbee2MQTT GUI navigate to the 'Touchlink' at the top, and press 'scan
 You can repeat this process for as many sensors as necessary. When doing this for the first time I have only configured two Aqara sensors and have a couple more that I will add in at a later date.
 
 The final step in getting the sensors fully linked in Home Assistant is to go to `Configuration > Integrations > MQTT` Mosquitto Broker and finalise the set-up there. At this point the devices connected will be visible.
+
+![Finalise MQTT](/assets/img/raspberrypi/MQTTfinalise.png)
 
 ## home assistant dashboard config
 
