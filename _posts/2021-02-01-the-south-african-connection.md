@@ -7,15 +7,15 @@ image: /assets/img/genealogy/south-africa/Daniell_Trekboer.jpg
 
 ---
 
-!["The Trekbur", Aquatint, Samuel Daniell](/assets/img/genealogy/south-africa/Daniell_Trekboer.jpg) *"The Trekbur" Samuel Daniell, 1804*
+!["The Trekbur", Aquatint, Samuel Daniell](/assets/img/genealogy/south-africa/Daniell_Trekboer.jpg)
 
 In researching my family history the vast majority of both sides of my family follow a similar pattern, moving from small rural villages, where they worked as agricultural labourers to the slums of London throughout the 19th century. This story of the industrial revolution is one that is no doubt repeated countless times around the world.
 
-From the historical documents available, these seemingly routine facts belie the complexity and struggle of countless relationships, tragedy and drama. Occasionally a story stands out, a life that has become mythologised and where piecing together the facts presents something even more interesting. 
+From the historical documents available, these seemingly routine facts belie the complexity and struggle of countless relationships, tragedy and drama. Occasionally a story stands out, a life that has become mythologised and where piecing together the facts presents something even more interesting.
 
 ## The legend
 
-Every family has their share of myths and legends about ancestors undergoing great ordeals and in my case it is no different. I first came across the beginnings of this when I learnt about my great-grandmother - Christina Carstens. The story goes that she was born in South Africa, whilst under attack in a covered wagon. The details are scant and there was little more to go on. As we will see almost none of this is true, but the kernel of the story is there. 
+Every family has their share of myths and legends about ancestors undergoing great ordeals and in my case it is no different. I first came across the beginnings of this when I learnt about my great-grandmother - Christina Carstens. The story goes that she was born in South Africa, whilst under attack in a covered wagon. The details are scant and there was little more to go on. As we will see almost none of this is true, but the kernel of the story is there.
 
 In reality this story may have had more to do with my grandfather's love of Western films, where covered wagon and 'Indian' attacks make a up a staple of the genre. So what really happened?
 
@@ -30,7 +30,6 @@ Whilst the family were not particularly well off they were able to send Matilda 
 ### The great journey
 
 ![The Athenian, Union Line steam ship](/assets/img/genealogy/south-africa/UnionAthenian-1.jpg)
-
 *The Athenian, Union Line steam ship*
 
 Within 2 years, aged 14, Matilda was heading off across the world.[^1] It is unclear what led Matilda to head to South Africa, in 1883 at the end of diamond rush that had dominated the 1870s and immediately before the [discovery of Witwatersrand, a gold rich deposit in 1886](https://en.wikipedia.org/wiki/Witwatersrand_Gold_Rush). It was this discovery in 1886 which created gold rush and mass immigration to the colony growing the white population from less than 250,000 in 1870 to over 600,000 in 1891.
@@ -48,7 +47,6 @@ I have found very little information about Daniel Carstens, the most extensive s
 ### Early life
 
 ![Second Schleswig War of 1864](/assets/img/genealogy/south-africa/8_brigades_angreb_ved_Dybbøl_1864.jpg)
-
 *Ottende brigades angreb ved Dybbøl 18. april 1864 - Vilhelm Rosenstand, depicting the Second Schleswig War of 1864*
 
 Daniel Carstens was likely born in Schleswig-Holstein in 1856. Records show that sometime before 1878 he had illegally emigrated, and avoided what would have otherwise have been compulsory military service. [^3]
@@ -80,16 +78,17 @@ Despite these details there is a lot of information missing about Daniel's life 
 > 9. **Will** - No testament
 > 10. **Property** - 200 pound sterling policy # 13812 dated 2 Oct 1890 in South African Mutual Life Assurance society
 > 11. **Estate above 25 pounds** - above 25 pounds
-> 12. **Names of children (majors or not)** -
->     Hans Guido born 27 April 1888
->     Agnes Matilda born 9 Oct 1890
->     Johanna Marie born 7 June 1892
->     *signed* Johannesburg 20th April 1893
->     Matilda Carst---
+> 12. **Names of children (majors or not)**
+>     1. Hans Guido born 27 April 1888
+>     2. Agnes Matilda born 9 Oct 1890
+>     3. Johanna Marie born 7 June 1892
+>
+> *signed* Johannesburg 20th April 1893
+> Matilda Carst---
 
 *Kindly translated for me by Dennis Maeder*
 
-I have not been able to find any record of the cause of his death, but the £200 sterling life insurance policy (equivalent to £25,000 in today's money, would have been a significant safety net for his family. Almost immediately after the death of her husband, Matilda returned to England pregnant with Christina Julia. 
+I have not been able to find any record of the cause of his death, but the £200 sterling life insurance policy (equivalent to £25,000 in today's money), would have been a significant safety net for his family. Almost immediately after the death of her husband, Matilda returned to England pregnant with Christina Julia.
 
 ## Family and return to England
 
