@@ -2,7 +2,9 @@
 layout: post
 title: 'Home Assistant Environment Sensors'
 categories: code
+image: /assets/img/raspberrypi/raspberrypi.jpg
 ---
+![Raspberry Pi](/assets/img/raspberrypi/raspberrypi.jpg)
 
 This week inspired by both the hours spent inside during the UK's lockdown 2.0, and by my day-job working on the Raspberry Pi/Home Assistant based [PowerShaper](https://powershaper.io) project, I recently decided to up my home monitoring game. This isn't going to be a  tutorial but just a brief overview of my process.
 
