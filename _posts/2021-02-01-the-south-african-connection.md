@@ -36,7 +36,7 @@ Within 2 years, aged 14, Matilda was heading off across the world.[^1] It is unc
 
 In October 1883 colonial newspaper "The Colonies and India" reports "Curd, Miss. M.J" departing from Southampton aboard the Athenian headed for Madeira, Saint Helena and then onto South Africa.[^2]
 
-The [Athenian was a new addition to the Union Line](https://www.shippingtandy.com/features/union-castle-line/), a steam ship completed in 1882 as the sister ship to the Moor. The construction of these ships in Glasgow was an attempt by the Union Line to see off competition from their rivals the Castle Line, and expand their mail/passenger connections to the Cape Colony. The ship had capacity for 102 passengers in cabins with a further four dozen 'temporary' Second Class passengers in the holds. This new ship, along with others in the fleet was able to reach Cape Town in only 19 days. 
+The [Athenian was a new addition to the Union Line](https://www.shippingtandy.com/features/union-castle-line/), a steam ship completed in 1882 as the sister ship to the Moor. The construction of these ships in Glasgow was an attempt by the Union Line to see off competition from their rivals the Castle Line, and expand their mail/passenger connections to the Cape Colony. The ship had capacity for 102 passengers in cabins with a further four dozen 'temporary' Second Class passengers in the holds. This new ship, along with others in the fleet was able to reach Cape Town in only 19 days.
 
 Once in South Africa, Matilda disembarked at the first opportunity at the port of Cape Town.
 
@@ -98,7 +98,7 @@ In 1901 the whole family were living together in Croydon at 99 Danbrook Road alo
 
 When back in England Matilda took up practice as a midwife.[^8]
 
-### Hans Guido Carstens  (aka Frederick 'Fred' Hanley Carston) 1888 - 1945
+### Hans Guido Carstens (aka Frederick 'Fred' Hanley Carston) 1888 - 1945
 
 Hans Guido Carstens was the eldest of their four children. Born on the 27th of April, I can find little about his life in South Africa except his place of birth being listed as Cape Town in a much later document. The only reference from his time in South Africa is in the death notice of his father. 
 
@@ -108,7 +108,7 @@ His next record is his 'Naturalization Petition' for the State of Ohio in the Un
 
 'Fred' worked in a local rubber shop and taught as a Golf Instructor.
 
-### Agnes Matilda Carstens  1889 - ?
+### Agnes Matilda Carstens 1889 - ?
 
 Agnes Matilda was born in Cape Town, South Africa on October 10th 1893, the was baptised on the 30th of October at the St Saviour Anglican Church in Claremont. 
 

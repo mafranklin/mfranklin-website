@@ -16,7 +16,7 @@ When it comes to the sensors, I was looking for something small and unobtrusive 
 
 So after a few weeks waiting on the Aqara sensors to arrive from Aliexpress it was time to get started. The project breaks down into a few easy steps.
 
-## flashing the zzh! CC2652R multiprotocol RF stick
+## Flashing the zzh! CC2652R multiprotocol RF stick
 
 The first step is to identify the location of the stick using `dmesg`.
 
@@ -41,7 +41,7 @@ This is what happens when the zzh! is flashed with the [small test program blink
 
 Once that is done, it is time to put the stick into its case and plug it into the Raspberry Pi.
 
-## flash home assistant and basic set up
+## Flash home assistant and basic set up
 
 For the easy process I decided to go with a [HASSIO Home Assistant install](https://www.home-assistant.io/hassio/). In this case it is as simple as downloading the image, flashing the SD (in my case using [Balena Etcher](https://www.balena.io/etcher/)) and booting up the Raspberry Pi, at this stage you need to go through a few basic setup steps for Home Assistant, including defining your location (mostly for the weather services).
 
@@ -49,13 +49,13 @@ For the easy process I decided to go with a [HASSIO Home Assistant install](http
 
 To access all the settings we need it is important to turn on advanced settings in Home Assistant, this is straightforward and can be found under the configuration section.
 
-## install Mosquitto MQTT broker addon and follow set-up instructions
+## Install Mosquitto MQTT broker addon and follow set-up instructions
 
 Next it is time to install the MQTT broker, which is basically a server for the data which comes in from the sensors. MQTT is great for handling this kind of information and I already have a cursory understanding of how it all works from my work on PowerShaper. There are some great resources for getting to grips with MQTT and one I have found particularly useful is the collection of [tutorials and the course put together on Steve's Internet Guide](http://www.steves-internet-guide.com/mqtt-basics-course/). [Mosquitto is a great open-source MQTT broker](https://mosquitto.org/) and something I have also used quite frequently to confirm that the devices we install in people's homes are functioning correctly.
 
 [The documentation and instructions for how to set this up are nice and simple](https://github.com/home-assistant/addons/blob/master/mosquitto/DOCS.md), with the main step probably being the creation of the MQTT user in Home Assistant.
 
-## zigbee2mqtt setup
+## Zigbee2mqtt setup
 
 I decided to follow the [Zigbee2MQTT documentation in this process including adding the repository manually](https://www.zigbee2mqtt.io/), although I think it is possible to skip this step. To do this from go to `Supervisor > Add-on Store` and click the three dot menu in the top right selecting `repositories` to bring up the repository manager adding the following: `https://github.com/danielwelch/hassio-zigbee2mqtt`
 
@@ -67,7 +67,7 @@ Once that is all configured start the add-on and toggle the 'Show in sidebar' op
 
 Give it a few minutes to boot up and click the Zigbee2MQTT button in the sidebar. If at this stage there are any problems make sure to check the logs for the add-on to identify the issue.
 
-## pairing aqara sensors
+## Pairing aqara sensors
 
 From the Zigbee2MQTT GUI navigate to the 'Touchlink' at the top, and press 'scan'. While that is in progress hold the little button on top of the Aqara sensor until the LED flashes blue. At this point the sensor should automatically be detected by the Zigbee2MQTT add-on. It will appear in the Devices list with a long and obscure name (I would assume this is the UUID). You can rename the device here to a more human readable name and make sure to toggle so that it updates the entity name across Home Assistant.
 
@@ -79,7 +79,7 @@ The final step in getting the sensors fully linked in Home Assistant is to go to
 
 ![Finalise MQTT](/assets/img/raspberrypi/MQTTfinalise.png)
 
-## home assistant dashboard config
+## Home assistant dashboard config
 
 The final thing to do is to display or use the data from the sensors. There are many different ways that this can be done. If there are other smart home devices connected to Home Assistant automating things might be useful, and this is something which I hope to explore further in the future. For now I just set up some simple graphs and displays on the dashboard showing the temperature and humidity in the rooms with the sensors.
 
