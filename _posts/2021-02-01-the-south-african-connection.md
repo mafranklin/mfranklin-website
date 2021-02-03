@@ -100,7 +100,7 @@ When back in England Matilda took up practice as a midwife.[^8]
 
 ### Hans Guido Carstens (aka Frederick 'Fred' Hanley Carston) 1888 - 1945
 
-Hans Guido Carstens was the eldest of their four children. Born on the 27th of April, I can find little about his life in South Africa except his place of birth being listed as Cape Town in a much later document. The only reference from his time in South Africa is in the death notice of his father. 
+Hans Guido Carstens was the eldest of their four children. Born on the 27th of April, I can find little about his life in South Africa except his place of birth being listed as Cape Town in a much later document. The only reference from his time in South Africa is in the death notice of his father.
 
 However, he reemerges as Frederick Hanley Carstens, age 12 in the 1901 Census of England and Wales.
 
