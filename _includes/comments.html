@@ -1,7 +1,7 @@
-<h2>Comment</h2>
+<h2><u><em>Have something to add?</em></u></h2>
 <p><em>Comments will be manually added after review.</em></p>
 <div class = "form">
-    <form name = "comment-form" method = "POST" data-netlify="true">
+    <form name = "comment-form" action="{{path.url}}" method = "POST" data-netlify="true">
         <input class = "form-input" type="text" name="name" id="name" placeholder="Name" required><br>
 
         <input class = "form-input"type="mail" name="mail" id="mail" placeholder="Email" required><br>
