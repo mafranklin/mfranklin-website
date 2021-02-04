@@ -35,4 +35,6 @@ related-posts:
   title: "Not bored yet?"
 
 #Comments
-comments: true
+comments: 
+  active: true
+  title: "Have something to add?"
