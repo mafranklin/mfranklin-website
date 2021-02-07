@@ -9,9 +9,9 @@ typora-root-url: ..
 
 ![Manchester getting up the steam - The Builder, 1853](/assets/img/genealogy/cunliffes/manchestersteam1853.jpg)
 
-This blog will be the first in a short series about the Cunliffe family, their successes and connections as well as their tragedies and drama. In this first post I look at the rise of the families tanning business throughout the 19th century. This business formed the backbone of the family bringing them to prominence and providing the wealth that underpinned their other achievements. 
+This blog will be the first in a short series about the Cunliffe family, related to my wife, their successes and connections as well as their tragedies and drama. In this first post I look at the rise of the families tanning business throughout the 19th century. This business formed the backbone of the family bringing them to prominence and providing the wealth that underpinned their other achievements. 
 
-I haven't been able to find any information about the family prior to Thomas Cunliffe, the patriarch of the family, and even he has some pretty major gaps. Whilst in this post I focus on their business in the industrial expansion of Manchester, future posts will look at their social connections, the marriages and dramatic events surrounding the family. 
+I haven't been able to find any information about the family prior to Thomas Cunliffe (the fourth great-grandfather of my wife), the patriarch of the family, and even he has some pretty major gaps. Whilst in this post I focus on their business in the industrial expansion of Manchester, future posts will look at their social connections, the marriages and dramatic events surrounding the family. 
 
 Manchester is world famous as one of the starting points of the industrial revolution, from a small market town on the edge of the Pennines to one of the biggest industrial cities in Britain, this journey took only a few years. Along with this success and growth also came infamy. The 'horrid little slum' of 'Little Ireland' was recorded in all its horror by Frederick Engels in 1844, and being only a short distance from the Cunliffe tannery it is impossible that the family were unaware of this extreme poverty.
 
