@@ -13,7 +13,7 @@ This blog will be the first in a short series about the Cunliffe family, related
 
 I haven't been able to find any information about the family prior to Thomas Cunliffe (the fourth great-grandfather of my wife), the patriarch of the family, and even he has some pretty major gaps. Whilst in this post I focus on their business in the industrial expansion of Manchester, future posts will look at their social connections, the marriages and dramatic events surrounding the family.
 
-Manchester is world famous as one of the starting points of the industrial revolution, from a small market town on the edge of the Pennines to one of the biggest industrial cities in Britain, this journey took only a few years. Along with this success and growth also came infamy. The 'horrid little slum' of 'Little Ireland' was recorded in all its horror by Frederick Engels in 1844, and being only a short distance from the Cunliffe tannery it is impossible that the family were unaware of this extreme poverty.
+Manchester is world famous as one of the starting points of the industrial revolution, from a small market town on the edge of the Pennines to one of the biggest industrial cities in Britain, this journey took only a few years. Along with this success and growth also came infamy. The 'horrid little slum' of 'Little Ireland' was recorded in all its horror by Frederick Engels in 1844, and being only a short distance from the Cunliffe tannery it is hard to believe that the family were unaware of this extreme poverty. Yet despite this in 1842 Cooke Taylor wrote in his 'Tour of the Manufacturing Districts of Lancashire' that 'Ardwick knows less about Ancoats than it does about China, and feels more interested in the condition of New Zealand than of Little Ireland', so who knows?
 
 ## From Thomas Cunliffe & Co. to Thomas Cunliffe & Sons
 
@@ -48,7 +48,6 @@ The company produced a wide range of leather goods, and let little go waste. Wit
 Their business fed into the rapidly accelerating industrialisation of Manchester. The city which was quickly becoming known for its cotton production was at the forefront of the technological innovations which were driving the industrial revolution. In 1847, the oldest of Thomas' sons, John Tattersall Cunliffe filed a patent for improvements in the 'pickers of power looms'.[^7] The 'pickers' were an essential component of the power looms that filled many of the Manchester cotton mills, and were conveniently made from strong buffalo hides, a staple of the Cunliffe & Sons business, and it was claimed that their pickers were 'superior to any hitherto offered' - a bold claim.[^8]
 
 ![An illustration of Cunliffe's improvements in power loom pickers.](/assets/img/genealogy/cunliffes/CunliffePicker.jpg)
-
 *Cunliffe's improvements in pickers, from the London Journal of Arts, Sciences and Manufactures*
 
 The early years for the family business were not without issue, and in 1860 a fire broke out overnight at the tannery, luckily the fire was quickly extinguished and the £2,000 of damage - reportedly only a fraction of what was on site (and about £250,000 today) was covered by insurance.[^9]
