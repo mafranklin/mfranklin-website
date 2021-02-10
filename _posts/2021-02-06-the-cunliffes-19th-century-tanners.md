@@ -75,6 +75,9 @@ Their first daughter Helen Cunliffe was born in 1845, followed by Emma in 1847, 
 It is among this next generation of Cunliffe's that even more interesting stories emerge which will be the subject of the next blog.
 
 ---
+### Addendum
+
+As of early 2021 the Centre for  Applied Archaeology in Salford has been carrying out excavations on the site of the tannery for a planned redevelopment into a large park and commercial space. This excavation has [attracted media attention for the spectacularly preserved Mayfield baths from 1850](https://www.bbc.co.uk/news/uk-england-manchester-55618815) . I contacted Graham Mottershead from the team, who told me that whilst the they are also devoting the same attention to the other former buildings on the site including the Ardwick Tannery, unfortunately, unlike the nearby dye works it seems that little remains of the original building. Their work will be ongoing and it will take several years for the full report to be released, but hopefully they will uncover some additional information that will add to our knowledge about the Ardwick Tannery and Thomas Cunliffe and Sons.  
 
 ### References and footnotes
 
